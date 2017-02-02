@@ -4,7 +4,7 @@ Tested by me on magento 2.0.something
 
 Copied this code into another module (changed module name) and seem to work fine on magento 2.1.3
 
-Will probably never be updated/bugg fixed/altered for future magento releases
+Do not expect this module to be updated/bugg fixed/altered for any specifik magento version
 
 ###Purpose
 adds posibillity to search categories the same way as products
