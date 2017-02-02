@@ -1,5 +1,7 @@
 # magento2-search-category
 ###Status
+Tested by me on magento 2.0.something
+
 Will probably never be updated/bugg fixed/altered for future magento releases
 
 ###Purpose
